@@ -1,1 +1,13 @@
-# VanRys_T_DataViz_GrA
+maybe an image here?
+
+# Olympic Data Visualization Project
+
+### synopsis would go here
+
+and some text about your project, your insights, etc
+
+### Author
+
+### Tools Used
+
+### License
